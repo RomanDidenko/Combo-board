@@ -1,0 +1,629 @@
+[Languages]
+$EN=#1
+$RU=#2 (Default)
+Default=RU
+Charset=Windows-1251
+Locale=0x0419
+
+EN:>&File
+RU:>&Файл
+
+EN:>&Help
+RU:>&Помощь
+
+EN:>&Language
+RU:>&Язык
+
+EN:>A higher level system identifies the device using the value. Any change breaks support of the device.
+RU:>Система верхнего уровня идентифицирует устройство используя это значение. При изменении идентификатора устройство не будет поддерживаться в системе УД.
+
+EN:>Board type
+RU:>Тип платы
+
+EN:>Buy me a coffee
+RU:>Купите автору кофе
+
+EN:>CC2530
+RU:>CC2530
+
+EN:>CC2530 (without external oscillator, like CC2531 dongle or Sonoff BasicZBR3)
+RU:>CC2530 (без внешнего резонатора, типа стика СС2531 или Sonoff BasicZBR3)
+
+EN:>CC2530 + CC2590
+RU:>CC2530 + CC2590
+
+EN:>CC2530 + CC2591
+RU:>CC2530 + CC2591
+
+EN:>CC2530 + CC2592
+RU:>CC2530 + CC2592
+
+EN:>CC2530 + RFX2401 (config control pins!!!)
+RU:>CC2530 + RFX2401 (настройте контакты управления!!!)
+
+EN:>CC2530 + RFX2401 (without external oscillator, config control pins!!!)
+RU:>CC2530 + RFX2401 (без внешнего резонатора, настройте контакты управления!!!)
+
+EN:>Default reporting interval (s)
+RU:>Интервал отправки отчетов по-умолчанию (сек)
+
+EN:>Device type
+RU:>Тип устройства
+
+EN:>Disable configuring the interval remotely in run-time
+RU:>Отключить удаленную настройку интервала во время работы
+
+EN:>Donate (buy me a coffee)
+RU:>Пожертвовать денег (купить кофе автору)
+
+EN:>Enable watchdog timer
+RU:>Включить сторожевой таймер (watchdog)
+
+EN:>End device without routing
+RU:>Конечное устройство без функции роутера
+
+EN:>Exactly 16 hexadecimal bytes
+RU:>Ровно 16 шестнадцатеричных байт
+
+EN:>Exit
+RU:>Выход
+
+EN:>Expert
+RU:>Эксперт
+
+EN:>Firmware Configuration
+RU:>Настройка прошивки
+
+EN:>Get Premium
+RU:>Получить Премиум-версию
+
+EN:>GPIO
+RU:>GPIO
+
+EN:>Input
+RU:>Вход
+
+EN:>Inversed
+RU:>Инвертирован
+
+EN:>Location description
+RU:>Описание расположения
+
+EN:>Manufacturer ID
+RU:>Идентификатор производителя
+
+EN:>Manufacturer name
+RU:>Имя производителя
+
+EN:>Model ID
+RU:>Идентификатор модели
+
+EN:>Need help or more info?
+RU:>Требуется помощь или больше информации?
+
+EN:>Network security key
+RU:>Ключ безопасности сети
+
+EN:>Output
+RU:>Выход
+
+EN:>P12, P14
+RU:>P12, P14
+
+EN:>PA control
+RU:>Управление усилителем
+
+EN:>Periodic (every 5 seconds)
+RU:>Периодически (каждые 5 секунд)
+
+EN:>Read settings from a file
+RU:>Считать настройки из файла
+
+EN:>Read settings from firmware
+RU:>Считать настройки из прошивки
+
+EN:>Receive enable (RXEN)
+RU:>Включение приема (RXEN)
+
+EN:>Report a bug
+RU:>Отправить отчет об ошибке
+
+EN:>Reset to defaults
+RU:>Сбросить настройки
+
+EN:>Router
+RU:>Роутер
+
+EN:>Save
+RU:>Сохранить
+
+EN:>Save custom converter for Z2M
+RU:>Создать внешний конвертер для Z2M
+
+EN:>Save settings to a file
+RU:>Сохранить настройки в файл
+
+EN:>Settings
+RU:>Настройки
+
+EN:>Status LED
+RU:>Индикатор статуса
+
+EN:>Transmit enable (TXEN)
+RU:>Включение передачи (TXEN)
+
+EN:>Update firmware's timestamp 
+RU:>Обновить дату и время сборки в прошивке
+
+EN:>Wait for commands after a report in PSM
+RU:>Ожидать команды после отчета в режиме сохранения энергии
+
+EN:>16 channels
+RU:>16 каналов
+
+EN:>A
+RU:>A
+
+EN:>accurate, max 1.15V
+RU:>точный, макс. 1.15В
+
+EN:>ADC
+RU:>АЦП
+
+EN:>Address (dec)
+RU:>Адрес (десят-ый)
+
+EN:>All
+RU:>Все
+
+EN:>Always on mode
+RU:>Всегда включен
+
+EN:>Baud rate
+RU:>Скорость
+
+EN:>Bistable relay
+RU:>Бистабильное реле
+
+EN:>Cannot write to the selected file.
+RU:>Не удалось записать в выбранный файл.
+
+EN:>Channel
+RU:>Канал
+
+EN:>Configuration files
+RU:>Файл настроек
+
+EN:>Counter
+RU:>Счетчик
+
+EN:>current
+RU:>ток
+
+EN:>Data type
+RU:>Тип данных
+
+EN:>Device address
+RU:>Адрес устройства
+
+EN:>Do not ask me again
+RU:>Не спрашивать снова
+
+EN:>Double
+RU:>Двойной
+
+EN:>Error
+RU:>Ошибка
+
+EN:>External sensor power control
+RU:>Управление питанием внешнего сенсора
+
+EN:>External wake-up
+RU:>Внешнее пробуждение
+
+EN:>Firmware
+RU:>Прошивка
+
+EN:>Frequency
+RU:>Частота
+
+EN:>Function
+RU:>Функция
+
+EN:>Group switch
+RU:>Групповой переключатель
+
+EN:>Hardware
+RU:>Аппаратный
+
+EN:>HEX files
+RU:>Файлы прошивок
+
+EN:>Holding registers
+RU:>Регистры хранения (Holding)
+
+EN:>Hz
+RU:>Гц
+
+EN:>Impulse
+RU:>Импульс
+
+EN:>Information
+RU:>Информация
+
+EN:>Input pins
+RU:>Входные контакты
+
+EN:>Input registers
+RU:>Входные регистры (Input)
+
+EN:>Internal temperature
+RU:>Внутренняя температура
+
+EN:>Interval
+RU:>Интервал
+
+EN:>JS files
+RU:>Файл JS
+
+EN:>kHz
+RU:>кГц
+
+EN:>Last|Off|On|Physical switch state
+RU:>Последний|Выключен|Включен|Состояние выключателя
+
+EN:>Length
+RU:>Длина
+
+EN:>Link to out
+RU:>Привязать к выходу
+
+EN:>Long
+RU:>Длинный
+
+EN:>lux
+RU:>люкс
+
+EN:>mA
+RU:>мА
+
+EN:>max 3.3V
+RU:>макс. 3.3В
+
+EN:>Memory offset
+RU:>Смещение в памяти
+
+EN:>Mode
+RU:>Режим
+
+EN:>Monitor output
+RU:>Контроль выхода
+
+EN:>ms
+RU:>мс
+
+EN:>mV
+RU:>мВ
+
+EN:>None
+RU:>Нет
+
+EN:>Number of _values_
+RU:>Количество _значений_
+
+EN:>Off
+RU:>Отключено
+
+EN:>On
+RU:>Включено
+
+EN:>Output pins
+RU:>Выходные контакты
+
+EN:>Outputs
+RU:>Выходы
+
+EN:>Packet end
+RU:>Окончание пакета
+
+EN:>PSM
+RU:>Режим сохранения энергии (РСЭ)
+
+EN:>Pulse generator
+RU:>Генератор импульсов
+
+EN:>Pulse switch
+RU:>Импульсный переключатель
+
+EN:>PWM
+RU:>ШИМ
+
+EN:>Question
+RU:>Вопрос
+
+EN:>raw value, max 3.3V
+RU:>Необработанное значение, макс. 3.3В
+
+EN:>Remember state
+RU:>Запоминать состояние
+
+EN:>Resolution
+RU:>Разрешение
+
+EN:>Restore after power off
+RU:>Состояние после выключения питания
+
+EN:>Scale factor
+RU:>Коэффициент
+
+EN:>SDA pin should be defined first.
+RU:>Контакт SDA должен быть назначен первым.
+
+EN:>sec
+RU:>сек.
+
+EN:>min
+RU:>мин.
+
+EN:>Sensor ID (optional, hex)
+RU:>Идентификатор сенсора (необязат., шестнад-ый)
+
+EN:>Software
+RU:>Программный
+
+EN:>Sorry, but you cannot use two sensors on the same endpoint #%d. But you can combine GPIO and a sensor.
+RU:>Извините, но нельзя назначить два сенсора на одном канале %d. Но вы можете комбинировать GPIO и сенсор.
+
+EN:>Source voltage
+RU:>Напряжение питания
+
+EN:>Successfully completed.
+RU:>Успешно завершено.
+
+EN:>Switch
+RU:>Переключатель
+
+EN:>Switch|Limit switch|Interlock|Interlock inverted
+RU:>Переключатель|Переключатель ограничения|Взаимоблокировка|Инверсная взаимоблокировка 
+
+EN:>The chip with an amplifier. High power consumption.
+RU:>Чип с усилителем. Высокое потребление энергии.
+
+EN:>The current configuration has the following notes
+RU:>Текущая конфигурация имеет следующие замечания
+
+EN:>The firmware file does not exist
+RU:>Файл прошивки не существует
+
+EN:>The firmware handles double clicks (max 500 ms between clicks).
+RU:>Прошивка обрабатывает двойные нажатия (макс. 500 мс между нажатиями).
+
+EN:>The firmware handles long clicks (2000 ms).
+RU:>Прошивка обрабатывает длинные нажатия (2000 мс).
+
+EN:>The firmware handles triple clicks (max 500 ms between clicks).
+RU:>Прошивка обрабатывает тройные нажатия (макс. 500 мс между нажатиями).
+
+EN:>The firmware saves the output state to NVRAM, and restores it after power off/on.
+RU:>Прошивка сохраняет состояние выхода в энергонезависимой памяти и восстанавливает после включения.
+
+EN:>The firmware toggles the linked output when a switch state changes. The physical switch position may differ with the output state if you change it from a coordinator.
+RU:>Прошивка переключает состояние выхода при любом изменении состояния переключателя. Физическое состояние переключателя может не совпадать с состоянием выхода, если вы измените его с координатора.
+
+EN:>The following features do not work or have limited functionality in the power saving mode. Please, check your configuration.
+RU:>Следующие возможности не работают или имеют ограничения в РСЭ. Пожалуйста, проверьте вашу конфигурацию.
+
+EN:>The input immediately controls the state of the corresponding output. Otherwise the input is independent.
+RU:>Вход сразу контролирует состояние соответствующего выхода. Иначе, вход работает независимо.
+
+EN:>The input is a switch (not a push button).
+RU:>Вход - это переключатель (не нажимаемая кнопка).
+
+EN:>The internal temperature sensor cannot coexist with an output, counter or generator on P00 and P01.
+RU:>Датчик внутренней температуры не может сосуществовать с выходом, счетчиком или генератором на контактах P00 и P01.
+
+EN:>The selected pin is used for %s
+RU:>Выбранный контакт используется для %s
+
+EN:>You can have only one switch on a port (P0x, P1x, or P2x). For example, P01, P17, or P20.
+RU:>Вы можете иметь только один переключатель на порту (P0x, P1x, или P2x). Например, P01, P17, или P20.
+
+EN:>The very long click (10000 ms) also resets the device. The device will re-join to a coordinator.
+RU:>Очень долгий клик (10000 мс) также приводит к сбросу устройство. Оно будет переподключаться к координатору.
+
+EN:>Toggle
+RU:>Тумблер
+
+EN:>Tripple
+RU:>Тройной
+
+EN:>Type
+RU:>Тип
+
+EN:>UART
+RU:>Последовательный порт (UART)
+
+EN:>UART uses pins P02 and P03. You cannot use these pins on %s.
+RU:>Последовательный порт использует контакты P02 и P03. Вы не можете использовать их в %s.
+
+EN:>Unable to create the HEX file.
+RU:>Не удалось создать файл прошивки.
+
+EN:>Unable to load firmware
+RU:>Не удалось загрузить прошивку
+
+EN:>Unable to save the created HEX file
+RU:>Не удалось сохранить файл прошивки
+
+EN:>Unable to save the created JS file
+RU:>Не удалось сохранить файл JS
+
+EN:>Unknown firmware format.
+RU:>Неизвестный формат прошивки.
+
+EN:>Unlinked
+RU:>Не связан
+
+EN:>Usually, the selected pin is used for an external oscillator 32 KHz.
+RU:>Обычно, выбранный контакт используется для внешнего резонатора 32 кГц.
+
+EN:>Usually, the selected pin is used for PA control.
+RU:>Обычно, выбранный контакт используется для управления усилителем.
+
+EN:>V
+RU:>В
+
+EN:>Voltage
+RU:>Напряжение
+
+EN:>Wake-up delay
+RU:>Задержка при пробуждении
+
+EN:>Warning
+RU:>Внимание
+
+EN:>Yes
+RU:>Да
+
+EN:>You can add up to four hardware PWM to the firmware.%0D%0AHardware PWM is available on the following pins:
+RU:>Вы можете добавить до 4х аппаратных ШИМ в прошивке.%0D%0AАппаратный ШИМ доступен на следующих контактах:
+
+EN:>1st: P13 or P16%0D%0A2nd: P10 or P20%0D%0A3rd: P14 or P17%0D%0A4th: P11 or P23%0D%0A5th (in the premium version): P03, P04, P05 or P06
+RU:>1: P13 или P16%0D%0A2: P10 или P20%0D%0A3: P14 или P17%0D%0A4: P11 или P23%0D%0A5 (в премиум версии): P03, P04, P05 или P06
+
+EN:>Hardware PWM with low frequencies is available on the pins P03, P04, P05, or P06, and it is incompatible with UART.
+RU:>Аппаратный ШИМ с низкими частотами доступен на пинах P03, P04, P05 или P06, и не совместим с UART.
+
+EN:>You cannot add more than %d sensors.
+RU:>Вы не можете добавить больше чем %d сенсоров.
+
+EN:>You cannot use a different programmable pull-up/down mode for pins on the same port (e.g. P0x,P1x,P2x).
+RU:>Вы не можете использовать разные режимы внутренние подтяжки для контактов на том же порту (например, P0x,P1x,P2x).
+
+EN:>You must use a unique ModelId for your device.
+RU:>Вы должны использовать уникальный идентификатора модели устройства.
+
+EN:>You must use the following pins for ADC:
+RU:>Вы должны использовать следующие контакты для АЦП:
+
+EN:>You must use P02 and P03 for UART, MZH19, SenseAir, and other UART-based sensors.
+RU:>Вы должны использовать P02 и P03 для последовательного порта (UART), MZH19, SenseAir, и других аналогичных сенсоров.
+
+EN:>Cancel
+RU:>Отмена
+
+EN:>Device IEEE address
+RU:>IEEE адрес устройства
+
+EN:>IEEE
+RU:>IEEE
+
+EN:>License key
+RU:>Лицензионный ключ
+
+EN:>OK
+RU:>ОК
+
+EN:>Once used, you cannot revoke the specified IEEE address from your account.
+RU:>Однажды использовав, вы не сможете отозвать назад IEEE адрес.
+
+EN:>Please, specify the IEEE address of your device. The program will connect to a server on the Internet and check your permissions.
+RU:>Пожалуйста, укажите IEEE адрес вашего устройства. Программа подключится к серверу в Интернете и проверит ваши полномочия.
+
+EN:>External pull-down
+RU:>Внешняя подтяжка к -
+
+EN:>External pull-up
+RU:>Внешняя подтяжка к +
+
+EN:>Joining or errors
+RU:>Подключение или ошибки
+
+EN:>Periodic (every 30 seconds)
+RU:>Периодически (каждые 30 секунд)
+
+EN:>Pull-down
+RU:>Подтяжка к - (pull-down)
+
+EN:>Pull-up
+RU:>Подтяжка к + (pull-up)
+
+EN:>Sending reports
+RU:>Отправка отчетов
+
+EN:>Would you like to continue?
+RU:>Вы хотели бы продолжить?
+
+EN:>Disable periodic reports
+RU:>Отключить периодические отчеты
+
+EN:>Debounce interval
+RU:>Защита от требезга
+
+EN:>Set default reporting interval (s)
+RU:>Установить интервал отправки отчетов (с)
+
+EN:>Direct LED connection|External N-type driver|External P-type driver
+RU:>Прямое подключение LED|Внешний драйвер N-типа|Внешний драйвер P-типа
+
+EN:>virtual
+RU:>виртуальный
+
+EN:>Disable resetting of a device by a power on/off cycle
+RU:>Отключить сброс устройства через процедуру включения/выключения
+
+EN:>Uptime
+RU:>Время работы
+
+EN:>Custom (dec)
+RU:>Свой (десят-ый)
+
+EN:>Poll for queued commands (s)
+RU:>Проверка отложенных команд (с)
+
+EN:>Icon (file or data URI)
+RU:>Иконка (файл или data URI)
+
+EN:>Serial bootloader (SBL)
+RU:>Загрузка прошивок через UART (SBL)
+
+EN:>Enable SBL
+RU:>Включить SBL
+
+EN:>SBL mode activation pin
+RU:>Пин активации режима SBL
+
+EN:>Browse
+RU:>Выбрать
+
+EN:>Byte
+RU:>Байт
+
+EN:>Changes level
+RU:>Изменение уровня
+
+EN:>Incompatible with PSM.
+RU:>Не совместимо с РСЭ
+
+EN:>Isolated
+RU:>Изолированный
+
+EN:>Linked input
+RU:>Привязанный вход
+
+EN:>Non-isonaled
+RU:>Неизолированный
+
+EN:>The internal pull-up or pull-down resistor secures high power consumption. Please, consider using an external pull-up 5 MOhm.
+RU:>Внутренний резистор подтяжки гарантирует высокий расход энергии. Пожалуйста, рассмотрите возможность использования внешней подтяжки 5 МOм.
+
+EN:>Transition time
+RU:>Время перехода
+
+EN:>Would you like to use an embedded image without external files (data URI encoding)?
+RU:>Вы хотите встроить картинку в конвертер (закодировать в формат data URI)?
+
+EN:>You can have only one switch on a port (P0x, P1x, or P2x). For example, P01, P11, or P20.
+RU:>Вы можете иметь только один переключатель на порту (P0x, P1x или P2x). Например, P01, P11 или P20.
+
+

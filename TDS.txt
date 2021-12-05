@@ -1,0 +1,25 @@
+Board type: CC2530 + CC2592
+Device type: Router
+ Transmit enable (TXEN): P12Receive enable (RXEN), P14
+Manufacturer name: RDV
+Model ID: 8ch.combo
+Location description: Service room
+Update firmware's timestamp : 2021-12-05
+Enable watchdog timer: Yes
+Set default reporting interval (s): 60
+
+Output pins:
+P00: Output 1, ADC (raw value, max 3.3V)
+P31: Output 2, Internal temperature
+P32: Output 3, Source voltage
+P33: Output 4, Uptime (sec)
+
+Input pins:
+P03: Input 1, GPIO, Pull-down
+P04: Input 2, GPIO, Pull-down, Link to out 2
+P05: Input 3, GPIO, Pull-down, Link to out 3
+P06: Input 4, GPIO, Pull-down, Link to out 4
+P12: Input 5, GPIO, Pull-down, Link to out 5
+P13: Input 6, GPIO, Pull-down, Link to out 6
+P14: Input 7, GPIO, Pull-down, Link to out 7
+P15: Input 8, GPIO, Pull-down, Link to out 8

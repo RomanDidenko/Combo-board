@@ -1,0 +1,574 @@
+[Languages]
+$CN=Chinese
+$EN=English
+Default=CN
+Charset=gb2312
+Locale=0x0804
+
+EN:>&File
+CN:>文件(&F)
+
+EN:>&Help
+CN:>帮助(&H)
+
+EN:>&Language
+CN:>语(&L)
+
+EN:>16 channels
+CN:>16通道
+
+EN:>1st: P13 or P16%0D%0A2nd: P10 or P20%0D%0A3rd: P14 or P17%0D%0A4th: P11 or P23EN:>1st: P13 or P16%0D%0A2nd: P10 or P20%0D%0A3rd: P14 or P17%0D%0A4th: P11 or P23%0D%0A5th (in the premium version): P03, P04, P05 or P06
+CN:>第一个：P13 或 P16%0D%0A第二：P10 或 P20%0D%0A第三名：P14 或 P17%0D%0A第四名：P11 或 P23%0D%0A第 5 个（高级版）：P03、P04、P05 或 P06
+
+EN:>Hardware PWM with low frequencies is available on the pins P03, P04, P05, or P06, and it is incompatible with UART.
+CN:>P03、P04、P05 或 P06 引脚提供低频硬件 PWM，与 UART 不兼容。
+
+EN:>A
+CN:>安培
+
+EN:>A higher level system identifies the device using the value. Any change breaks support of the device.
+CN:>更高级别的系统使用该值识别设备。任何更改都会破坏对设备的支持。
+
+EN:>ADC
+CN:>模数转换器
+
+EN:>Address (dec)
+CN:>地址（十进制）
+
+EN:>All
+CN:>全部
+
+EN:>Always on mode
+CN:>永远在线模式
+
+EN:>Baud rate
+CN:>波特率
+
+EN:>Bistable relay
+CN:>双稳态继电器
+
+EN:>Board type
+CN:>板型
+
+EN:>Buy me a coffee
+CN:>给我买杯咖啡
+
+EN:>CC2530 (without external oscillator, like CC2531 dongle or Sonoff BasicZBR3)
+CN:>CC2530（无外部振荡器，如 CC2531 USB 或 Sonoff BasicZBR3）
+
+EN:>CC2530 + RFX2401 (config control pins!!!)
+CN:>CC2530 + RFX2401（配置控制引脚！！！）
+
+EN:>CC2530 + RFX2401 (without external oscillator, config control pins!!!)
+CN:>CC2530 + RFX2401（无外部振荡器，配置控制引脚！！！）
+
+EN:>Cancel
+CN:>取消
+
+EN:>Cannot write to the selected file.
+CN:>无法写入所选文件。
+
+EN:>Channel
+CN:>渠道
+
+EN:>Configuration files
+CN:>配置文件
+
+EN:>Counter
+CN:>柜台
+
+EN:>Custom (dec)
+CN:>自定义（十进制）
+
+EN:>Data type
+CN:>数据类型
+
+EN:>Debounce interval
+CN:>去抖间隔
+
+EN:>Default reporting interval (s)
+CN:>默认报告间隔 （秒）
+
+EN:>Device IEEE address
+CN:>设备 IEEE 地址
+
+EN:>Device address
+CN:>设备地址
+
+EN:>Device type
+CN:>设备类型
+
+EN:>Direct LED connection|External N-type driver|External P-type driver
+CN:>LED直连|外置N型驱动器|外置P型驱动器
+
+EN:>Disable configuring the interval remotely in run-time
+CN:>禁止在运行时远程配置间隔
+
+EN:>Disable periodic reports
+CN:>禁用定期报告
+
+EN:>Disable resetting of a device by a power on/off cycle
+CN:>禁止通过电源开/关循环重置设备
+
+EN:>Do not ask me again
+CN:>不要再问我
+
+EN:>Donate (buy me a coffee)
+CN:>捐赠（给我买杯咖啡）
+
+EN:>Double
+CN:>双精度
+
+EN:>Enable SBL
+CN:>启用 SBL
+
+EN:>Enable watchdog timer
+CN:>启用看门狗定时器
+
+EN:>End device without routing
+CN:>无路由的终端设备
+
+EN:>Error
+CN:>错误
+
+EN:>Exactly 16 hexadecimal bytes
+CN:>正好 16 个十六进制字节
+
+EN:>Exit
+CN:>出口
+
+EN:>Expert
+CN:>专家
+
+EN:>External pull-down
+CN:>外部下拉
+
+EN:>External pull-up
+CN:>外部上拉
+
+EN:>External sensor power control
+CN:>外部传感器电源控制
+
+EN:>External wake-up
+CN:>外部唤醒
+
+EN:>Firmware
+CN:>固件
+
+EN:>Firmware Configuration
+CN:>固件配置
+
+EN:>Frequency
+CN:>频率
+
+EN:>Function
+CN:>功能
+
+EN:>GPIO
+CN:>GPIO
+
+EN:>Get Premium
+CN:>获得保费
+
+EN:>Group switch
+CN:>群组切换
+
+EN:>HEX files
+CN:>固件文件
+
+EN:>Hardware
+CN:>硬件
+
+EN:>Holding registers
+CN:>保持寄存器
+
+EN:>Hz
+CN:>赫兹
+
+EN:>Icon (file or data URI)
+CN:>图标（文件或数据 URI）
+
+EN:>Impulse
+CN:>冲动
+
+EN:>Information
+CN:>信息
+
+EN:>Input
+CN:>输入
+
+EN:>Input pins
+CN:>输入引脚
+
+EN:>Input registers
+CN:>输入寄存器
+
+EN:>Internal temperature
+CN:>内部温度
+
+EN:>Interval
+CN:>间隔
+
+EN:>Inversed
+CN:>反转
+
+EN:>JS files
+CN:>JS文件
+
+EN:>Joining or errors
+CN:>加入或错误
+
+EN:>Last|Off|On|Physical switch state
+CN:>最后一个位置|离开|在|物理开关状态
+
+EN:>Length
+CN:>长度
+
+EN:>License key
+CN:>注册码
+
+EN:>Link to out
+CN:>输出链接
+
+EN:>Location description
+CN:>位置说明
+
+EN:>Long
+CN:>长
+
+EN:>Manufacturer ID
+CN:>制造商 ID
+
+EN:>Manufacturer name
+CN:>生产商名称
+
+EN:>Memory offset
+CN:>内存偏移
+
+EN:>Mode
+CN:>模式
+
+EN:>Model ID
+CN:>型号标识
+
+EN:>Monitor output
+CN:>监视器输出
+
+EN:>Need help or more info?
+CN:>需要帮助或更多信息？
+
+EN:>Network security key
+CN:>网络安全密钥
+
+EN:>None
+CN:>没有任何
+
+EN:>Number of _values_
+CN:>_值_的数量
+
+EN:>OK
+CN:>行
+
+EN:>Off
+CN:>离开
+
+EN:>On
+CN:>在
+
+EN:>Once used, you cannot revoke the specified IEEE address from your account.
+CN:>一旦使用，您将无法从您的帐户中撤销指定的 IEEE 地址。
+
+EN:>Output
+CN:>输出
+
+EN:>Output pins
+CN:>输出引脚
+
+EN:>Outputs
+CN:>输出
+
+EN:>PA control
+CN:>功放控制
+
+EN:>PWM
+CN:>脉宽调制
+
+EN:>Packet end
+CN:>包结束
+
+EN:>Periodic (every 30 seconds)
+CN:>定期（每 30 秒）
+
+EN:>Periodic (every 5 seconds)
+CN:>定期（每 5 秒）
+
+EN:>Please, specify the IEEE address of your device. The program will connect to a server on the Internet and check your permissions.
+CN:>请指定您设备的 IEEE 地址。该程序将连接到 Internet 上的服务器并检查您的权限。
+
+EN:>Poll for queued commands (s)
+CN:>轮询排队的命令 （秒）
+
+EN:>Pull-down
+CN:>拉下
+
+EN:>Pull-up
+CN:>拉起
+
+EN:>Pulse generator
+CN:>脉冲发生器
+
+EN:>Pulse switch
+CN:>脉冲开关
+
+EN:>Question
+CN:>问题
+
+EN:>Read settings from a file
+CN:>从文件中读取设置
+
+EN:>Read settings from firmware
+CN:>从固件读取设置
+
+EN:>Receive enable (RXEN)
+CN:>接收使能 (RXEN)
+
+EN:>Remember state
+CN:>记住状态
+
+EN:>Report a bug
+CN:>报告错误
+
+EN:>Reset to defaults
+CN:>重置为默认值
+
+EN:>Resolution
+CN:>解决
+
+EN:>Restore after power off
+CN:>断电后恢复
+
+EN:>Router
+CN:>路由器
+
+EN:>SBL mode activation pin
+CN:>SBL 模式激活引脚
+
+EN:>SDA pin should be defined first.
+CN:>应首先定义 SDA 引脚。
+
+EN:>Save
+CN:>节省
+
+EN:>Save custom converter for Z2M
+CN:>保存 Z2M 的自定义转换器
+
+EN:>Save settings to a file
+CN:>将设置保存到文件
+
+EN:>Scale factor
+CN:>比例因子
+
+EN:>Sending reports
+CN:>发送报告
+
+EN:>Sensor ID (optional, hex)
+CN:>传感器 ID（可选，十六进制）
+
+EN:>Serial bootloader (SBL)
+CN:>串行引导加载程序 (SBL)
+
+EN:>Set default reporting interval (s)
+CN:>设置默认报告间隔 （秒）
+
+EN:>Settings
+CN:>设置
+
+EN:>Software
+CN:>软件
+
+EN:>Sorry, but you cannot use two sensors on the same endpoint #%d. But you can combine GPIO and a sensor.
+CN:>抱歉，您不能在同一端点 #%d 上使用两个传感器。但是您可以结合使用 GPIO 和传感器。
+
+EN:>Source voltage
+CN:>源电压
+
+EN:>Status LED
+CN:>状态指示灯
+
+EN:>Successfully completed.
+CN:>成功完成。
+
+EN:>Switch
+CN:>转变
+
+EN:>Switch|Limit switch|Interlock|Interlock inverted
+CN:>转变|限位开关|互锁|互锁倒置
+
+EN:>The chip with an amplifier. High power consumption.
+CN:>带有放大器的芯片。高功耗。
+
+EN:>The current configuration has the following notes
+CN:>当前配置有以下注意事项
+
+EN:>The firmware file does not exist
+CN:>固件文件不存在
+
+EN:>The firmware handles double clicks (max 500 ms between clicks).
+CN:>固件处理双击（两次单击之间最多 500 毫秒）。
+
+EN:>The firmware handles long clicks (2000 ms).
+CN:>固件处理长点击（2000 毫秒）。
+
+EN:>The firmware handles triple clicks (max 500 ms between clicks).
+CN:>固件处理三次点击（点击之间最多 500 毫秒）。
+
+EN:>The firmware saves the output state to NVRAM, and restores it after power off/on.
+CN:>固件将输出状态保存到 NVRAM，并在断电/上电后恢复。
+
+EN:>The firmware toggles the linked output when a switch state changes. The physical switch position may differ with the output state if you change it from a coordinator.
+CN:>当开关状态改变时，固件会切换链接的输出。如果从协调器更改输出状态，则物理开关位置可能会有所不同。
+
+EN:>The following features do not work or have limited functionality in the power saving mode. Please, check your configuration.
+CN:>以下功能在省电模式下不起作用或功能有限。请检查您的配置。
+
+EN:>The input immediately controls the state of the corresponding output. Otherwise the input is independent.
+CN:>输入立即控制相应输出的状态。否则输入是独立的。
+
+EN:>The input is a switch (not a push button).
+CN:>输入是一个开关（不是按钮）。
+
+EN:>The internal temperature sensor cannot coexist with an output, counter or generator on P00 and P01.
+CN:>内部温度传感器不能与 P00 和 P01 上的输出、计数器或发生器共存。
+
+EN:>The selected pin is used for %s
+CN:>所选引脚用于 %s
+
+EN:>The very long click (10000 ms) also resets the device. The device will re-join to a coordinator.
+CN:>很长的点击（10000 毫秒）也会重置设备。设备将重新加入协调器。
+
+EN:>Toggle
+CN:>切换
+
+EN:>Transmit enable (TXEN)
+CN:>发送使能 (TXEN)
+
+EN:>Tripple
+CN:>三重
+
+EN:>Type
+CN:>类型
+
+EN:>UART
+CN:>串口
+
+EN:>UART uses pins P02 and P03. You cannot use these pins on %s.
+CN:>UART 使用引脚 P02 和 P03。您不能在 %s 上使用这些引脚。
+
+EN:>Unable to create the HEX file.
+CN:>无法使用固件创建文件。
+
+EN:>Unable to load firmware
+CN:>无法加载固件
+
+EN:>Unable to save the created HEX file
+CN:>无法保存创建的固件文件
+
+EN:>Unable to save the created JS file
+CN:>无法保存创建的 JS 文件
+
+EN:>Unknown firmware format.
+CN:>未知的固件格式。
+
+EN:>Unlinked
+CN:>未链接
+
+EN:>Update firmware's timestamp
+CN:>更新固件的时间戳
+
+EN:>Uptime
+CN:>正常运行时间
+
+EN:>Usually, the selected pin is used for PA control.
+CN:>通常，所选引脚用于控制功率放大器。
+
+EN:>Usually, the selected pin is used for an external oscillator 32 KHz.
+CN:>通常，所选引脚用于外部 32 KHz 振荡器。
+
+EN:>V
+CN:>电压
+
+EN:>Voltage
+CN:>电压
+
+EN:>Wait for commands after a report in PSM
+CN:>在 PSM 中报告后等待命令
+
+EN:>Wake-up delay
+CN:>唤醒延迟
+
+EN:>Warning
+CN:>警告
+
+EN:>Would you like to continue?
+CN:>你想继续吗？
+
+EN:>Yes
+CN:>是的
+
+EN:>You can add up to four hardware PWM to the firmware.%0D%0AHardware PWM is available on the following pins:
+CN:>您最多可以向固件添加四个硬件 PWM。%0D%0A硬件 PWM 在以下引脚上可用：
+
+EN:>You can have only one switch on a port (P0x, P1x, or P2x). For example, P01, P17, or P20.
+CN:>一个端口上只能有一个交换机（P0x、P1x 或 P2x）。例如，P01、P17 或 P20。
+
+EN:>You cannot add more than %d sensors.
+CN:>您不能添加超过 %d 个传感器。
+
+EN:>You cannot use a different programmable pull-up/down mode for pins on the same port (e.g. P0x,P1x,P2x).
+CN:>您不能对同一端口上的引脚（例如 P0x、P1x、P2x）使用不同的可编程上拉/下拉模式。
+
+EN:>You must use P02 and P03 for UART, MZH19, SenseAir, and other UART-based sensors.
+CN:>您必须将 P02 和 P03 用于 UART、MZH19、SenseAir 和其他基于 UART 的传感器。
+
+EN:>You must use a unique ModelId for your device.
+CN:>您必须为您的设备使用唯一的 ModelId。
+
+EN:>You must use the following pins for ADC:
+CN:>您必须为 ADC 使用以下引脚：
+
+EN:>accurate, max 1.15V
+CN:>准确，最大 1.15V
+
+EN:>current
+CN:>当前的
+
+EN:>kHz
+CN:>千赫
+
+EN:>lux
+CN:>勒克斯
+
+EN:>mA
+CN:>毫安
+
+EN:>mV
+CN:>毫伏
+
+EN:>max 3.3V
+CN:>最大 3.3V
+
+EN:>min
+CN:>分钟
+
+EN:>ms
+CN:>毫秒
+
+EN:>raw value, max 3.3V
+CN:>原始值，最大 3.3V
+
+EN:>sec
+CN:>秒
+
+EN:>virtual
+CN:>虚拟的
+
